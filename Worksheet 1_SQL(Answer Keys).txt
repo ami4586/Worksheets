@@ -1,0 +1,56 @@
+Worksheet 1 - SQL
+
+1. Which of the following is/are DDL commands in SQL?      
+Ans : A) Create , D) ALTER
+   
+2. Which of the following is/are DML commands in SQL?  		
+Ans : A) Update , B) Delete
+
+3. Full form of SQL is:
+Ans : B) Structure Query Language
+
+4. Full form of DDL is:
+Ans : B) Data Definition Language
+
+5. DML is:
+Ans : A) Data Manipulation Language
+
+6. Which of the following statements can be used to create a table with column B int type and C float type?
+Ans : C) Table A( B int, C float, D float)
+
+7. Which of the following statements can be used to add a column D (float type) to the table A created above?
+Ans : B) Alter Table A ADD COLUMN D float
+
+8. Which of the following statements can be used to drop the column added in the above question?
+Ans : B) Alter Table A Drop Column D
+
+9. Which of the following statements can be used to change the data type (from float to int ) of the column D of table A created in above questions?
+Ans : B) Alter Table A Alter Column D int
+
+10. Suppose we want to make Column B of Table A as primary key of the table. By which of the following statements we can do it?
+Ans : C) Alter Table A Add Primary key B
+
+11. What is data-warehouse?
+Ans : Data warehouse is a storage place to store the data's basically databases and tables.
+          Data Warehouse is separate from DBMS, it stores huge amount of data, which is typically collected from multiple heterogeneous source like files, DBMS, etc.
+
+12. What is the difference between OLTP VS OLAP?
+Ans : Online transaction processing (OLTP) provides transaction-oriented applications in a 3-tier architecture.
+         Online Analytical Processing (OLAP) consists of a type of software tools that are used for data analysis for business decisions.
+
+13. What are the various characteristics of data-warehouse?
+Ans : Characteristics of Data Warehouse:
+           1. Subject-oriented
+           2. Integrated
+           3. Time-Variant
+           4. Non-Volatile
+
+14. What is Star-Schema??
+Ans : A star schema is the elementary form of a dimensional model, in which data are organized into facts and dimensions.
+
+15. What do you mean by SETL?
+Ans : Short for Set Theory as a Language (or Set Language), SETL is a high-level programming language that's based on the mathematical theory of sets.
+          It was developed in the early 1970's by mathematician Professor J. Schwartz.
+          SETL is an interpreted language with a syntax that is resembles C and in many cases similar to Perl.
+          In SETL every statement is terminated by a semicolon.
+         Variable names are case-insensitive and are automatically determined by their last assignment.

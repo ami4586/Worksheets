@@ -1,0 +1,60 @@
+Worksheet - 2 PYTHON
+
+1. Which of the following is not a core datatype in python?
+Ans : B) struct
+
+2. Which of the following is an invalid variable name in python?
+Ans : C) 1_no
+
+3. Which one of the following is a keyword in python?
+Ans : A) in
+
+4. In which of the following manner are the operators of the same precedence executed in python?
+Ans : A) Left to Right
+
+5. Arrange the following in decreasing order of the precedence when they appear in an expression in python?
+Ans : C) iv - iii - ii - i
+
+6. (28//6)**3/3%3 = ?
+Ans : C) 0.3333....
+
+7. Which of the following is not equal to x16 ?
+Ans : A) X**4**4
+
+8. a = input(“Enter an integer”). What will be the data type of a?
+Ans : B) str
+
+9. Which of the following statements are correct?
+Ans : A) Division and multiplication have same precedence in python,
+         D) In case of operators’ having same precedence, the one on the left side is executed first.
+
+10. Which of the following is(are) valid statement(s) in python?
+Ans : A) abc = 1,000,000
+         C) a,b,c = 1000, 2000, 3000
+         D) a_b_c = 1,000,000
+
+11. Differentiate between a list, tuple, set and dictionary.
+Ans : 
+         List -> is a simple collection of objects. It is ordered (we can tell which elements come before or after which other element).
+         A list can contain objects of different types, including other lists.
+         A list can contain duplicates, i.e., two or more objects having same value and even two objects with same id, can coexist in a list
+
+        Set -> is also a collection of objects but it is unordered and doesn't allow duplicates.
+        Tuple -> A tuple is like a list with one difference that tuples are immutable.
+Immutability allows them to be used in places where lists can't be (keys of dictionaries).
+
+        Dictionary -> Known in other languages as hash tables, associative arrays, maps, etc.
+        They are like lists but instead of integers you can use any immutable type as the index (including strings).
+
+12. Are strings mutable in python? Suppose you have a string “I+Love+Python”, write a small code to replace ‘+’ with space in python.
+Ans : In python, the string data types are immutable. Which means a string value cannot be updated.
+
+13. What does the function ord() do in python? Explain with example. Also, write down the function for getting the datatype of a variable in python.
+Ans : The ord() function returns the number representing the unicode code of a specified character.
+          Example:
+                         x = ord("h")
+                           Return the integer that represents the character "h"
+
+          Function for getting the datatype is type(<VARIABLE_NAME>).
+                         a=12
+                        print(type(a))
