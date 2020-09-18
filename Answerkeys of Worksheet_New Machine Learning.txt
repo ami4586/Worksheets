@@ -1,0 +1,45 @@
+                                                  Machine Learning Worksheet-3 Answerkeys
+												  
+1) Linear in SVM : SVM or Support Vector Machine is a linear model for classification and regression problems. It can solve linear and non-linear problems and work well for many practical problems.												  
+   RBF in SVM : In machine learning, the radial basis function kernel, or RBF kernel, is a popular kernel function used in various kernelized learning algorithms. In particular, it is commonly used in support vector machine classification. 
+   Polynomial Kernal in SVM : In machine learning, the polynomial kernel is a kernel function commonly used with support vector machines (SVMs) and other kernelized models, that represents the similarity of vectors (training samples) in a feature space over polynomials of the original variables, allowing learning of non-linear models.
+   
+2) Any model might have variances between the predicted values and actual results. Although the variances might be explained by the regression analysis, the residual sum of squares represents the variances or errors that are not explained.
+
+3) TSS in Regression : Total sum of squares (TSS):
+   The coefficient of determination is used as a measure of how well a regression line explains the relationship between a dependent variable (Y) and an independent variable (X). The closer the coefficient of determination is to 1, the more closely the regression line fits the sample data.
+   
+   ESS in Regression : The explained sum of squares (ESS), alternatively known as the model sum of squares or sum of squares due to regression ("SSR" – not to be confused with the residual sum of squares RSS or sum of squares of errors), is a quantity used in describing how well a model, often a regression model, represents the data being modelled.
+                           
+   RSS in Regression : The residual sum of squares, also known as the sum of squared residuals or the sum of squared estimate of errors, is the sum of the squares of residuals. It is a measure of the discrepancy between the data and an estimation model. A small RSS indicates a tight fit of the model to the data.
+   
+4) Gini Impurity Index : Gini Impurity is a measurement of the likelihood of an incorrect classification of a new instance of a random variable, if that new instance were randomly classified according to the distribution of class labels from the data set.
+
+5) Decision trees are prone to overfitting, especially when a tree is particularly deep. This is due to the amount of specificity we look at leading to smaller sample of events that meet the previous assumptions. 
+
+6) Ensemble methods is a machine learning technique that combines several base models in order to produce one optimal predictive model . ... A Decision Tree determines the predictive value based on series of questions and conditions.
+
+7) Bagging is a way to decrease the variance in the prediction by generating additional data for training from dataset using combinations with repetitions to produce multi-sets of the original data. 
+   Boosting is an iterative technique which adjusts the weight of an observation based on the last classification.
+   
+8) Out-of-bag (OOB) error, also called out-of-bag estimate, is a method of measuring the prediction error of random forests, boosted decision trees, and other machine learning models utilizing bootstrap aggregating (bagging) to sub-sample data samples used for training.
+
+9) K-Fold CV is where a given data set is split into a K number of sections/folds where each fold is used as a testing set at some point.
+
+10) In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.   
+
+11) When the learning rate is too large, gradient descent can inadvertently increase rather than decrease the training error.
+
+12) Bias is the simplifying assumptions made by the model to make the target function easier to approximate. Variance is the amount that the estimate of the target function will change given different training data. Trade-off is tension between the error introduced by the bias and the variance.
+
+13) Regularisation is a technique used to reduce the errors by fitting the function appropriately on the given training set and avoid overfitting. 
+
+14) Adaboost is more about 'voting weights' and gradient boosting is more about 'adding gradient optimization'. Adaboost doesn't overfit because it is more about 'organizing people to vote' than 'voting'. In fact, if you have a gradient boosting model, you can use it in adaboost along with other models.
+
+15) Logistic regression is known and used as a linear classifier. ... It is used to come up with a hyperplane in feature space to separate observations that belong to a class from all the other observations that do not belong to that class. 
+
+   
+   
+   
+   
+   
