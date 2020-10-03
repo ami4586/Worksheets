@@ -1,0 +1,18 @@
+Machine Learning - Worksheet 2
+
+1) D
+2) B
+3) A
+4) c
+5) B
+6) A, C
+7) B, D
+8) D
+9) A, B
+10) The adjusted R2 will penalize you for adding independent variables (K in the equation) that do not fit the model.Some of those variables will be significant, but you can't be sure that significance is just by chance. The adjusted R2 will compensate for this by that penalizing you for those extra variables
+11) Ridge and Lasso regression uses two different penalty functions. Ridge uses l2 where as lasso go with l1. In ridge regression, the penalty is the sum of the squares of the coefficients and for the Lasso, it's the sum of the absolute values of the coefficients.
+12) Multicollinearity is when independent variables in a regression model are correlated. trust the p-values to select the independent variables to include in the model.The variance inflation factor (VIF) identifies correlation between independent. 
+13) Given the use of small weights in the model and the use of error between predictions and expected values, the scale of inputs and outputs used to train the model are an important factor. ... Data scaling can be achieved by normalizing or standardizing real-valued input and output variables.
+14) Coefficient of determination (the R-squared measure of goodness of fit); Lack-of-fit sum of squares; Reduced chi-squared. Regression validation.
+
+ 
