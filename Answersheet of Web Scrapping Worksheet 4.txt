@@ -1,0 +1,19 @@
+                              Web Scrapping Answers
+
+1) D
+2) D
+3) B
+4) B
+5) D
+6) D
+7) D
+8) C
+9) B
+10) B
+11) D
+12) C
+13) D
+14) C
+15) find()- It just returns the result when the searched element is found in the page.And the return type will be <class 'bs4.element.Tag'>.
+
+find_all()- It returns all the matches (i.e) it scans the entire document and returns all the results and the return type will be <class 'bs4.element.ResultSet'>
