@@ -1,0 +1,20 @@
+                                                                Deep Learing Worksheet 4 
+1) A
+2) A
+3) B
+4) A
+5) A
+6) D
+7) A
+8) D 
+9) A & B
+10) A & C
+11) Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning.
+ Learning can be supervised, semi-supervised or unsupervised.
+12) Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment
+ in order to maximize the notion of cumulative reward.
+13) Machine learning uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned.
+ Deep learning structures algorithms in layers to create an "artificial neural network” that can learn and make intelligent decisions on its own.
+14) In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers. 
+15) Artificial Intelligence is the broader concept of machines being able to carry out tasks in a way that we would consider “smart”. 
+   Machine Learning is a current application of AI based around the idea that we should really just be able to give machines access to data and let them learn for themselves.
