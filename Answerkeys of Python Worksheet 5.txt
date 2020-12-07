@@ -1,0 +1,14 @@
+                                                             Answer Keys of Python Worksheet 5
+1) B
+2) B
+3) B
+4) D
+5) A
+6) C
+7) B
+8) B
+9) A 
+10) A and C
+11) Lists and tuples are standard Python data types that store values in a sequence. 
+   Sets are another standard Python data type that also store values. 
+   The major difference is that sets, unlike lists or tuples, cannot have multiple occurrences of the same element and store unordered values.
