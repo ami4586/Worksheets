@@ -1,0 +1,21 @@
+                                 Answer Key of Deep Learning Worksheet 4
+1) C
+2) A
+3) B
+4) D
+5) A
+6) B
+7) A
+8) C
+9) B, D
+10) B, D
+
+11) A CNN architecture is formed by a stack of distinct layers that transform the input volume into an output volume (e.g. holding the class scores) through a differentiable function. A few distinct types of layers are commonly used.
+
+12) In deep learning, a convolutional neural network is a class of deep neural networks, most commonly applied to analyzing visual imagery. They are also known as shift invariant or space invariant artificial neural networks, based on their shared-weights architecture and translation invariance characteristics.
+
+13) Average pooling method smooths out the image and hence the sharp features may not be identified when this pooling method is used. Max pooling selects the brighter pixels from the image. It is useful when the background of the image is dark and we are interested in only the lighter pixels of the image.
+
+14) Padding is the space that's inside the element between the element and the border. Padding goes around all four sides of the content and you can target and change the padding for each side.
+
+15) There are three types of layers in a convolutional neural network: convolutional layer, pooling layer, and fully connected layer. ... Fully connected layers are placed before the classification output of a CNN and are used to flatten the results before classification.
